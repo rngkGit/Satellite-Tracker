@@ -33,8 +33,8 @@ The frontend libraries are loaded from public CDNs, so an internet connection is
 1. Clone the repository and enter its directory:
 
    ```bash
-   git clone https://github.com/<your-account>/<your-repository>.git
-   cd <your-repository>
+   git clone https://github.com/rngkGit/Satellite-Tracker.git
+   cd Satellite-Tracker
    ```
 
 2. Start the included proxy and static file server:
@@ -157,4 +157,4 @@ TLE data changes over time, and the tracker propagates the downloaded records fo
 
 ## License
 
-No license file is currently included. Add a license before distributing or accepting external contributions.
+Distributed under the MIT License. See `LICENSE.md` for more information.
