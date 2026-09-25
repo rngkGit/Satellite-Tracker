@@ -1,0 +1,28 @@
+# macOS metadata
+.DS_Store
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Editor and tooling state
+.vscode/*.log
+.idea/
