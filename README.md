@@ -2,6 +2,8 @@
 
 Interactive orbital satellite telemetry visualizer for the browser. VECTOR-TRACK renders a wireframe Earth and live satellite positions in Three.js, propagates orbital data with `satellite.js`, and exposes telemetry relative to a configurable ground observation station.
 
+<img width="1462" height="727" alt="Screenshot 2026-09-25 at 03 24 10" src="https://github.com/user-attachments/assets/5a4aec3c-f197-4675-b82e-8ce68b526bdb" />
+
 ## Features
 
 - Three-dimensional wireframe Earth with orbit paths, coordinate grid, axes, and starfield
